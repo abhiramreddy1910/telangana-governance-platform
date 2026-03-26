@@ -111,7 +111,7 @@ export default function DepartmentPage() {
             <div className="flex items-center gap-4">
               <div className="bg-white/95 rounded-xl p-2 shadow-lg">
                 <Image
-                  src="/CM.JPG"
+                  src="/CM.jpg"
                   alt="Chief Minister"
                   width={70}
                   height={70}
@@ -147,7 +147,7 @@ export default function DepartmentPage() {
 
               <div className="bg-white/95 rounded-xl p-3 shadow-lg">
                 <Image
-                  src="/logo.PNG"
+                  src="/logo.png"
                   alt="Government Logo"
                   width={90}
                   height={90}

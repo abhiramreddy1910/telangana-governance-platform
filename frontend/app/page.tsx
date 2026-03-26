@@ -128,7 +128,7 @@ export default function Home() {
       {/* CM Image */}
       <div className="bg-white/95 rounded-xl p-2 shadow-lg">
         <Image
-          src="/CM.JPG"
+          src="/CM.jpg"
           alt="Chief Minister"
           width={80}
           height={80}
@@ -155,7 +155,7 @@ export default function Home() {
     <div className="flex-shrink-0 self-start md:self-center">
       <div className="bg-white/95 rounded-xl p-3 shadow-lg">
         <Image
-          src="/logo.PNG"
+          src="/logo.png"
           alt="Government Logo"
           width={110}
           height={110}

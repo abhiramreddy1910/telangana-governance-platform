@@ -54,7 +54,7 @@ export default function LoginPage() {
             <div className="flex items-center gap-3">
               <div className="bg-white/95 rounded-xl p-2 shadow-lg">
                 <Image
-                  src="/CM.JPG"
+                  src="/CM.jpg"
                   alt="Chief Minister"
                   width={56}
                   height={56}
@@ -73,7 +73,7 @@ export default function LoginPage() {
 
             <div className="bg-white/95 rounded-xl p-2 shadow-lg">
               <Image
-                src="/logo.PNG"
+                src="/logo.png"
                 alt="Government Logo"
                 width={56}
                 height={56}

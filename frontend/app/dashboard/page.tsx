@@ -148,7 +148,7 @@ export default function Dashboard() {
               <div className="flex flex-col items-center">
                 <div className="bg-white/95 rounded-xl p-2 shadow-lg">
                   <Image
-                    src="/CM.JPG"
+                    src="/CM.jpg"
                     alt="Chief Minister"
                     width={70}
                     height={70}
@@ -185,7 +185,7 @@ export default function Dashboard() {
 
   <div className="bg-white/95 rounded-xl p-3 shadow-lg">
     <Image
-      src="/logo.PNG"
+      src="/logo.png"
       alt="Government Logo"
       width={90}
       height={90}
