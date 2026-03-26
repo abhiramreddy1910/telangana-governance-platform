@@ -1,0 +1,12 @@
+# frontend
+frontend/.next
+frontend/node_modules
+
+# backend
+backend/__pycache__
+backend/.env
+backend/telangana_gov.db
+
+# general
+*.pyc
+.env
